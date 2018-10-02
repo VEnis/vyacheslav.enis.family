@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://vyacheslav-enis-family.netlify.com/* https://vyacheslav.enis.family/:splat 301!
